@@ -1,10 +1,3 @@
-"""----------------------------------------------------------------------------------------------------------------------------------------------------
-This was a challenge I solved in 2019. The orginal posting is here - https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/
-
-I included this to show knowledge of python, unittesting and problem solving
-
-The script needs to be run in python3. It was written in 3.6.5
------------------------------------------------------------------------------------------------------------------------------------------------------ """
 
 
 """
