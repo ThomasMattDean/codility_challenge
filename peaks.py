@@ -145,6 +145,7 @@ def check_against_divisor(peaks,chunk_size):
 
     Args:
         peaks (array): an array where peaks are represented by 1's and non-peaks by 0's
+        chunk_size (integer) : an integer representing the size of each chunk
 
     Returns:
         (boolean) : whether every chunk contains a peak
